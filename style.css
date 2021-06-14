@@ -1,0 +1,42 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+.col{
+    padding: 0;
+    width: 84px;
+    
+}
+
+.colom{
+    display: flex;
+    
+}
+.btn{
+    background-color: blueviolet;
+}
+
+.btn-outline-primary{
+    color:white
+}
+
+.card-body{
+    background-color: blue;
+}
+
+
+#btn_clr{
+    background-color: purple;
+    color: white;
+}
+
+#btn_clr :hover{
+    background-color: wheat;
+    color: purple;
+}
